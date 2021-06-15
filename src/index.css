@@ -1,13 +1,115 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+
+
+.navbar{
+    background-color: #fff;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.navbar-brand{
+    font-weight: bold;
+    font-size: 1.9rem;
+    color: #3498db;
 }
+
+.navbar {
+    font-size: 1.3rem;
+    text-transform: capitalize;
+}
+
+.navbar :hover{
+    color: #3498db;
+}
+.nav-bar{
+    margin-left: 50px !important;
+}
+
+
+.menu_active{
+    font-weight: bold;
+    color: #3498db !important;
+    border-bottom: 1px solid #6d69bd;
+}
+.menu_ li{
+    color: red;
+}
+.btn-get-started{
+   
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 10px 30px;
+    border-radius: 50px;
+    transition: 0.5s;
+text-decoration: none;
+    color: #3498db;
+    border: 2px solid #3498db;
+   
+}
+.btn-get-started:hover{
+    color: #fff;
+    background:#3498db ;
+}
+.brand-name{
+    font-weight: bold;
+    font-size: 2.9rem;
+    color: #3498db;
+}
+.getstrted{
+    font-size: 12px;
+}
+
+@media (max-width:991px){
+    .navbar-brand{
+        font-size: 1.5rem;
+    }
+}
+
+.contact-img{
+    margin-top: 20vh !important;
+}
+
+.menu_active{
+    font-weight: bold;
+    border-bottom: 1px solid #6d69bd;
+}
+
+#header{
+    width: 99%;
+    height: 70vh;
+    margin-top: 50px;
+}
+
+#header h1{
+    margin: 0 0 10px 0;
+    font-size: 40px;
+    font-weight: 700;
+    color: black;
+}
+
+.header-img{
+    text-align: right;
+}
+
+#header .animated{
+        animation: up-down 1.5s ease-in-out infinite alternate-reverse both;
+}
+
+
+@-webkit-keyframes up-down{
+    0%{
+        transform: translateY(10px);
+    }
+    100%{
+        transform: translateX(-10px);
+    }
+}
+
+@keyframes up-down{
+    0%{
+        transform: translateY(10px);
+    }
+    100%{
+        transform: translateX(-10px);
+    }
+}
+
