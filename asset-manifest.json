@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/reactwesite/static/css/main.7e61c1de.chunk.css",
+    "main.js": "/reactwesite/static/js/main.433267ee.chunk.js",
+    "main.js.map": "/reactwesite/static/js/main.433267ee.chunk.js.map",
+    "runtime-main.js": "/reactwesite/static/js/runtime-main.e26ec9af.js",
+    "runtime-main.js.map": "/reactwesite/static/js/runtime-main.e26ec9af.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/reactwesite/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.50d45397.chunk.js": "/reactwesite/static/js/2.50d45397.chunk.js",
+    "static/js/2.50d45397.chunk.js.map": "/reactwesite/static/js/2.50d45397.chunk.js.map",
+    "index.html": "/reactwesite/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/reactwesite/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.7e61c1de.chunk.css.map": "/reactwesite/static/css/main.7e61c1de.chunk.css.map",
+    "static/js/2.50d45397.chunk.js.LICENSE.txt": "/reactwesite/static/js/2.50d45397.chunk.js.LICENSE.txt",
+    "static/media/abhi2.3744bdfc.png": "/reactwesite/static/media/abhi2.3744bdfc.png",
+    "static/media/bedroom.3beb4e43.jpg": "/reactwesite/static/media/bedroom.3beb4e43.jpg",
+    "static/media/contact.05a0a5c2.svg": "/reactwesite/static/media/contact.05a0a5c2.svg",
+    "static/media/homeimg.b40821d9.jpg": "/reactwesite/static/media/homeimg.b40821d9.jpg",
+    "static/media/kitchen.996d02cd.jpg": "/reactwesite/static/media/kitchen.996d02cd.jpg",
+    "static/media/living.8ea9eb3b.jpg": "/reactwesite/static/media/living.8ea9eb3b.jpg",
+    "static/media/officefurniture.d87b5e76.jpg": "/reactwesite/static/media/officefurniture.d87b5e76.jpg",
+    "static/media/sofa.7a0a7358.jpg": "/reactwesite/static/media/sofa.7a0a7358.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e26ec9af.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.50d45397.chunk.js",
+    "static/css/main.7e61c1de.chunk.css",
+    "static/js/main.433267ee.chunk.js"
+  ]
+}
